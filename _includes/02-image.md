@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Tux catching windows](https://i.imgur.com/8LhVqPI.png)
