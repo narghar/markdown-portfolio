@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## I REALLY ENJOY ...
+* Eating
+* Sleeping
+* Coding
