@@ -1,8 +1,8 @@
 ## My languages skills:
-  * Polish
-  * Russian
-  * English
+  * **Polish**
+  * _Russian_
+  * _English_
 ## My programming skills:
-  * HTML
-  * CSS
-  * JavaScript
+  * _HTML_
+  * _CSS_
+  * **JavaScript**
